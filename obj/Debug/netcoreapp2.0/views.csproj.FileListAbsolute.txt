@@ -1,0 +1,11 @@
+/home/ali/codingDojo/c#/views/bin/Debug/netcoreapp2.0/views.deps.json
+/home/ali/codingDojo/c#/views/bin/Debug/netcoreapp2.0/views.runtimeconfig.json
+/home/ali/codingDojo/c#/views/bin/Debug/netcoreapp2.0/views.runtimeconfig.dev.json
+/home/ali/codingDojo/c#/views/bin/Debug/netcoreapp2.0/views.dll
+/home/ali/codingDojo/c#/views/bin/Debug/netcoreapp2.0/views.pdb
+/home/ali/codingDojo/c#/views/obj/Debug/netcoreapp2.0/views.csprojResolveAssemblyReference.cache
+/home/ali/codingDojo/c#/views/obj/Debug/netcoreapp2.0/views.csproj.CoreCompileInputs.cache
+/home/ali/codingDojo/c#/views/obj/Debug/netcoreapp2.0/views.AssemblyInfoInputs.cache
+/home/ali/codingDojo/c#/views/obj/Debug/netcoreapp2.0/views.AssemblyInfo.cs
+/home/ali/codingDojo/c#/views/obj/Debug/netcoreapp2.0/views.dll
+/home/ali/codingDojo/c#/views/obj/Debug/netcoreapp2.0/views.pdb

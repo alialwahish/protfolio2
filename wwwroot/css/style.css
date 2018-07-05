@@ -1,0 +1,22 @@
+.profImg{
+    width: 70px;
+   
+}
+#abtMy{
+
+    width: 100px;
+    display: inline-block;
+    position: relative;
+    left: 162px;
+    bottom: 144px;
+}
+#projTable{
+    outline: 2px solid black;
+    height: 200px;
+    width: 500px;
+    overflow-y: scroll;
+}
+
+#project{
+    background-color: rgba(106, 106, 212, 0.534);
+}
